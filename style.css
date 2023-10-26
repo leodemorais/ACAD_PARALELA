@@ -42,3 +42,22 @@ footer {
     padding: 10px;
 }
 
+body {
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    margin: 10px;
+}
+
+#cart {
+    margin-top: 20px;
+}
+
+#checkout {
+    margin-top: 10px;
+}
